@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "This is fresh apple",
+      "date": "2022-09-16T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "This is fresh Tomato",
+      "date": "2022-09-22T21:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
